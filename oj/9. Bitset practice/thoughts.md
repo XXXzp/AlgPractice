@@ -1,4 +1,4 @@
-# 3Sum Closest
+# ab distance
 
 Given two strings which consist of 'a' and 'b' only, we can calculate the number of different character between them. For example, we have 'aab' and 'abb' then the distance between them is 1 because of the difference in the second digit. 
 The main goal is to compute the distance between one source string and template. Whereas the source string is always longer than the template string, you should compute the sum of the distances between |s|-|t|+1 substring of source string  and template string.
